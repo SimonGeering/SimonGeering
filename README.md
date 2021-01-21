@@ -14,7 +14,7 @@ The following is a quick overview of the various bits and bobs you'll find on my
 
 ### [Admin Assistant](https://github.com/SimonGeering/AdminAssistant)
 
-This is my main personal project that is closest to the sort of code i work on professionally. It gives me somewhere safe (i.e not in works codebase 😄) to try new technologies and techniques on an enterprise grade system with sufficient real world complexity.
+This is my main personal project that is closest to the sort of code I work on professionally. It gives me somewhere safe (i.e not in works codebase 😄) to try new technologies and techniques on an enterprise grade system with sufficient real world complexity.
 
 Whilst it's always going to be WIP, the core backend web-api is well under way at the time of writing. The various UI projects are POC / Prototypes at the moment and there is a lot missing in terms of non-functional capabilities, such as security, better error handling, logging & instrumentation etc.
 
@@ -24,7 +24,7 @@ The architecture and focus of efforts on the Web-API has been so I can easily tr
 
 This is a private repo of my fathers where he is developing a python desktop application to work with all the data needed to record our Family Tree. I have helped with advice on architecture, data modeling and TDD as well as code contributions to the business domain and infrastructure.
 
-It has been an interesting learning experience coding in a language i don't normally work with.
+It has been an interesting learning experience coding in a language I don't normally work with.
 
 ### [CasinoGames](https://github.com/SimonGeering/CasinoGames)
 
@@ -32,4 +32,4 @@ Inspired by a Twitch streamer writing a java version of blackjack as a TDD strea
 
 ### [SamplesAndCodeKatas](https://github.com/SimonGeering/SamplesAndCodeKatas)
 
-I tend to use this project to back-up / share any code samples i may need to put together quickly for some RnD or to help provide examples for more junior devs i may be mentoring. It also contains sub-folders for any code katas i've worked on.
+I tend to use this project to back-up / share any code samples I may need to put together quickly for some RnD or to help provide examples for more junior devs I may be mentoring. It also contains sub-folders for any code katas i've worked on.
